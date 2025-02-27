@@ -7,7 +7,7 @@ install() {
 		sudo apt-get upgrade -y
 		sudo apt-get install lua5.1 lua-socket lua-sec redis-server curl -y
 		sudo apt-get install libreadline-dev libssl-dev lua5.2 luarocks liblua5.2-dev curl libcurl4-gnutls-dev -y
-		git clone http://github.com/keplerproject/luarocks
+		git clone git://github.com/luarocks/luarocks.git
 		cd luarocks
 		./configure --lua-version=5.2
 		make build
