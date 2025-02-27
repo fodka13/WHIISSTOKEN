@@ -1,19 +1,19 @@
 # <p align="center" style="color:#cb3349" > [<< WHIISS >> V21 (Final Version)](https://telegram.me/swhiskee)
 
- <p align="center" style="color: #14635c;" > بوت الزعيم الاقوى والاحدث لحمايه المجموعات في التلكرام
-<p align="center"><img src="زعيم.jpg" alt="بوت زعيم" title="بوت زعيم">
+ <p align="center" style="color: #14635c;" > بوت الالوسكي الاقوى والاحدث لحمايه المجموعات في التلكرام
+<p align="center"><img src="الوسكي.jpg" alt="بوت الوسكي" title="بوت الوسكي">
 
 ***
 
 # <p align="center" style="color: #14635c;" > التنصيب بكود واحد
 ```sh
-git clone https://github.com/moody2020/WHIISSTOKEN.git && cd WHIISSTOKEN && chmod +x WHIISS.sh && ./WHIISS.sh install && ./WHIISS.sh
+git clone https://github.com/fodka13/WHIISSTOKEN.git && cd WHIISSTOKEN && chmod +x WHIISS.sh && ./WHIISS.sh install && ./WHIISS.sh
 ```
 
 
 <br>
 
-# <p align="center" style="color: #14635c;" >  تنصيب سورس الزعيم الاصدار 21 والاخير
+# <p align="center" style="color: #14635c;" >  تنصيب سورس الالوسكي الاصدار 21 والاخير
 
 🔖┇  افتـح ترمنـــأل وخلي هاي
 ```sh
@@ -21,7 +21,7 @@ redis-server
 ```
 🔖┇  اتركه مفتوح وافتح ترمنال ثاني وخلي
 ```sh
-git clone https://github.com/moody2020/WHIISSTOKEN.git
+git clone https://github.com/fodka13/WHIISSTOKEN.git
 ```
 🔖┇  وراها هاي
 ```sh
